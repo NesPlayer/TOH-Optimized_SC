@@ -1,2 +1,3 @@
-# TOHO身份的简体中文介绍
-请注意，这个页面并非由TOHO官方创作，如有错误，请不要在TOHO的DC伺服器进行报告
+# Town Of Host Optimized
+
+请注意，这个库并非由Town Of Host Optimized所创建，如有错误，请在这个库提出问题。
